@@ -1,0 +1,23 @@
+Your challenge is to create a data model/algorithm/code which would help YES BANK in creating a customer heat map across geographical areas (cities/towns etc) including :
+
+ü  Unique labeling of cities
+
+ü  Uniquely label households/offices
+
+ü  Use lat/long to create a customer map of cities
+
+Heres what you have to do next :
+
+ü  Go through the dataset in detail
+
+ü  Gather your doubts
+
+ü  Share a crisp one pager concept note detailing your approach towards solving the challenge. The concept note should cover the following aspects :
+
+·         Detail your data cleaning &  normalization process
+
+·         Detail your chosen algorithm/coding/ clustering process
+
+·         Concept notes should be sent to manya.joshi@yesbank.in on or before 27th Jan’19 , 10:00 PM
+
+·         Format for sharing the concept note : <Teamname_Collegename>
