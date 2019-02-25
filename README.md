@@ -3,12 +3,18 @@ Recently I participated in the Yes Bank Campus Datathon. We were required to bui
 
 
 ## Installtion Instructions
-- Clone the repository.
+- Follow the instructions on this [page](https://github.com/uber/deck.gl/tree/master/examples/website/3d-heatmap) for deck.gl installations.
+- Clone the repository in the master folder of 3D-Heatmap.
 ```bash
 git clone https://github.com/limosin/Yes_bank_datathon
 ```
+- Generate a subset of data using `data/dataset_gen,ipynb` to get the Mumbai data.
 - Move to `src/` for the Data Preprocessing.
 - See the preprocessed data in `data/Data_with_logits.csv`. You can find the generated latitudes and longitudes here.
+- start the npm server using.
+```bash 
+npm start
+```
 
 
 ## Output
